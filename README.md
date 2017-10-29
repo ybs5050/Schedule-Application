@@ -1,0 +1,1 @@
+System with a Java front-end and an SQL database backend. The system will store instructor information, sections that need to be scheduled, day/time options, and any saved schedules. The system will generate a workable schedule that attempts to meet a set of rules.
